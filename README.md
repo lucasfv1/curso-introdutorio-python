@@ -5,7 +5,7 @@
 # Curso Introdutório de Python
 Material de apoio do Curso Introdutório de Python.
 
-* [Servidor no Discord - para discussões e dúvidas](https://discord.gg/xJkJSkB)
+* [Servidor **Discord** para discussõe, dúvidas e outros assuntos](https://discord.gg/M9Ahg9NTZe)
 
 # Módulo 01 - Strings, inputs, comentários e variáveis
 
