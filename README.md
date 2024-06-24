@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
+  <img width="800" height="200" src="[https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png](https://github.com/lucasfv1/curso-introdutorio-python/blob/main/images/banner-curso-introdutorio-python.png)">
 </p>
 
 # Curso Introdutório de Python
