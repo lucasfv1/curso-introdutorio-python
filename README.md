@@ -10,8 +10,8 @@ Material de apoio do Curso Introdutório de Python.
 # Módulo 01 - Strings, inputs, comentários e variáveis
 
 ## Projeto - Gerador de nome de usuário
-* [Estrutura inicial](https://replit.com/@lucasfv1/ProjetoGeradorDeNomeDeUsuarioEstruturaInicial){:target="_blank"}
-* [Solução](https://replit.com/@lucasfv1/ProjetoGeradorDeNomeDeUsuarioSolucao){:target="_blank"}
+* [Estrutura inicial](https://replit.com/@lucasfv1/ProjetoGeradorDeNomeDeUsuarioEstruturaInicial)
+* [Solução](https://replit.com/@lucasfv1/ProjetoGeradorDeNomeDeUsuarioSolucao)
 
 # Módulo 02 - Tipos de dados e manipulação de strings
 
